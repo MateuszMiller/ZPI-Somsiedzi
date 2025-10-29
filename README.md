@@ -1,8 +1,8 @@
-#KwadrApp
+# KwadrApp
 
 Aplikacja do zarządania akademikami, łączaca w sobie funkcje socjalizacji oraz zarządanie współlokatorami
 
-##Funkcjonalności:
+## Funkcjonalności:
 
   -Rejestracja przez numer pokoju.
 
